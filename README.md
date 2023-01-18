@@ -55,6 +55,8 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 ### 排序
 
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/96784901/213139078-7a60e676-ffc5-44f6-a043-349b9b9a9810.png">
+
 用各種排序方法呈現結果，每做一個動作輸出一行。
 > serchigsort 、 selectionsort 、 bubblesort 、 insertionsort 、 shellsort 、 qicksort 、 countingsort
 
