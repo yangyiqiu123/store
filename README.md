@@ -24,13 +24,41 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 ## MFC
 
+### 排序
+
+用各種排序方法呈現結果，每做一個動作輸出一行。
+> serchigsort 、 selectionsort 、 bubblesort 、 insertionsort 、 shellsort 、 qicksort 、 countingsort
+
+[code](https://gist.github.com/yangyiqiu123/7f0fbf02cbc523b6bdb6a3811006ff8b)
+
+[mfc project](https://drive.google.com/drive/folders/1pYjLoiSnPWG5l-oCLOw5cTsZi686HGHa?usp=sharing)
+
 ### binary tree 
-::: success
-ff
-:::
+
+
 用 node 建 binary tree 並以圖像顯示。有加入節點、刪除節點、尋找節點的功能
 
-[mfc profect](https://drive.google.com/drive/folders/1pYjLoiSnPWG5l-oCLOw5cTsZi686HGHa?usp=sharing)
+[code](https://drive.google.com/file/d/1i6HgCYzjSXLGlI5OS5QRhROqsZC2fb_2/view?usp=sharing)
+
+[mfc project](https://drive.google.com/drive/folders/1pYjLoiSnPWG5l-oCLOw5cTsZi686HGHa?usp=sharing)
+
+### tree traversal
+
+用前序與中序建出完整且唯一的樹，並以圖像顯示。
+
+[code](https://drive.google.com/file/d/1vv_ZDBoJRRXEAMq6np_WKaX4W3Akjelj/view?usp=sharing)
+
+[mfc project](https://drive.google.com/drive/folders/1BwhD5kWw-0W-4TNp90ywt0rtaZk6XAXD?usp=sharing)
+
+
+### 科赫雪花
+
+
+[mfc project](https://drive.google.com/drive/folders/1loZYn9da-L6rSEWE4OT923RVxnfPQfS_?usp=sharing)
+
+## 倉庫翻
+
+[mfc project](https://drive.google.com/drive/folders/1-gINUE7kx4so88rOkHZRCXXl5WaVjtoC?usp=sharing)
 
 ## other
 
