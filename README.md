@@ -110,6 +110,13 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 [mfc code](https://drive.google.com/drive/folders/1a3z6uI_txdJAi9wrWL-rNFtkY4OsT9l6?usp=sharing)
 
+# verilog
+## fpga 打磚塊
+
+[code](https://gist.github.com/yangyiqiu123/cfc0a5ff5e14eadf997dec5bd59ae9a4)
+
+[vedio](https://drive.google.com/file/d/1Mm9-EfjWEZ9URJ82ZRNmmbz4O2RvGrgl/view?usp=sharing)
+
 # uva
 
 [code](https://drive.google.com/drive/folders/1crKoHVLBikWZK2-kJkK5b7-dWpcALlvb?usp=sharing)
