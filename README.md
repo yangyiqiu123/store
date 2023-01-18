@@ -22,5 +22,16 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 [client_code](https://drive.google.com/drive/folders/1GkYrTY77ATFlBBk9AAjXF0af5-07xi4k?usp=sharing)
 
+## MFC
 
+### binary tree 
+::: success
+ff
+:::
+用 node 建 binary tree 並以圖像顯示。有加入節點、刪除節點、尋找節點的功能
 
+[mfc profect](https://drive.google.com/drive/folders/1pYjLoiSnPWG5l-oCLOw5cTsZi686HGHa?usp=sharing)
+
+## other
+
+[other code](https://github.com/yangyiqiu123/practice/tree/main/done)
