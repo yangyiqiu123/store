@@ -4,6 +4,8 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 ## 五子棋 
 
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/96784901/213137372-7208b3ed-89e7-448a-af54-cfa605101035.png">
+
 ### 單人
 
 * Use the counter to achieve the effect similar to playing chess with ai 
@@ -24,6 +26,8 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 ## 最短路徑演算法
 尋找兩點間的距離並輸出最短路徑
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/96784901/213137133-574f1ead-a742-41c9-89bb-96d66d631484.png">
+
 
 [my report](https://docs.google.com/document/d/1v8toxRpFrVoO3eQANDA3F3DFbIBqYheyNyWpUBna7ZI/edit?usp=sharing)
 
@@ -62,6 +66,9 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 
 用 node 建 binary tree 並以圖像顯示。有加入節點、刪除節點、尋找節點的功能
+
+<img width="171" alt="image" src="https://user-images.githubusercontent.com/96784901/213137527-75321d16-d527-45d4-9e2a-8ab9f1e88908.png">
+
 
 [code](https://drive.google.com/file/d/1i6HgCYzjSXLGlI5OS5QRhROqsZC2fb_2/view?usp=sharing)
 
