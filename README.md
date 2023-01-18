@@ -2,7 +2,7 @@
 
 The purpose of this repository is to let me know what the code I wrote before does
 
-## 五子棋 
+# 五子棋 
 
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/96784901/213137372-7208b3ed-89e7-448a-af54-cfa605101035.png">
 
@@ -24,7 +24,7 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 [client_code](https://drive.google.com/drive/folders/1GkYrTY77ATFlBBk9AAjXF0af5-07xi4k?usp=sharing)
 
-## 最短路徑演算法
+# 最短路徑演算法
 尋找兩點間的距離並輸出最短路徑
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/96784901/213137133-574f1ead-a742-41c9-89bb-96d66d631484.png">
 
@@ -39,7 +39,7 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 [code](https://drive.google.com/file/d/1rsODKxuFja1QgUIVEYgRMVVY83TOIool/view?usp=sharing)
 
-## socket programming
+# socket programming
 
 ### server
 
@@ -51,7 +51,7 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 [code](https://drive.google.com/drive/folders/1OdpyeiSbFBzCR6VrC_7NfSttjuO6Uq8v?usp=sharing)
 
-## MFC
+# MFC
 
 ### 排序
 
@@ -108,10 +108,10 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 [mfc code](https://drive.google.com/drive/folders/1a3z6uI_txdJAi9wrWL-rNFtkY4OsT9l6?usp=sharing)
 
-## uva
+# uva
 
 [code](https://drive.google.com/drive/folders/1crKoHVLBikWZK2-kJkK5b7-dWpcALlvb?usp=sharing)
 
-## other
+# other
 
 [other code](https://github.com/yangyiqiu123/practice/tree/main/done)
