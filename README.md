@@ -123,4 +123,6 @@ The purpose of this repository is to let me know what the code I wrote before do
 
 # other
 
+[算 pi 值](https://gist.github.com/yangyiqiu123/9b727839dc8a5762d6537164b8aa6b1a)
+
 [other code](https://github.com/yangyiqiu123/practice/tree/main/done)
