@@ -1,7 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=yangyiqiu123)](https://github.com/ryo-ma/github-profile-trophy)
-# what i have done
 
-The purpose of this repository is to let me know what the code I wrote before does
 
 # 五子棋 
 
