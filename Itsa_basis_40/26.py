@@ -1,15 +1,15 @@
-def compare(a):
-    a_plus = 0
+# def compare(a):
+#     a_plus = 0
 
-    for i in str(a):
-        a_plus += int(i)
-    return (a_plus, a)
+#     for i in str(a):
+#         a_plus += int(i)
+#     return (a_plus, a)
 
-n = int(input())
-num = list(map(int, input().split()))
+# n = int(input())
+# num = list(map(int, input().split()))
 
-num = sorted(num, key=compare)
-print(*num)
+# num = sorted(num, key=compare)
+# print(*num)
 
 # ------------------------------------------------------------------------------
 
@@ -25,17 +25,17 @@ print(*num)
 
 # sort = []
 # for j in range(n):
-    
+
 #     temp = num[0]
-    
+
 #     for i in num:
-        
+
 #         if sum_digit(i) <= sum_digit(temp):
 #             if sum_digit(i) != sum_digit(temp):
 #                 temp = i
 #             elif temp > i:
 #                 temp = i
-                
+
 #     num = num[:num.index(temp)]+num[num.index(temp)+1:]
 #     sort.append(temp)
 
@@ -55,3 +55,34 @@ print(*num)
 # print(*numbers, sep=" ")
 
 
+# ------------------------------------------------------------------------------
+while True:
+    try:
+        n = int(input())
+        num = list(map(str, input().split()))
+        num2 = []
+        for i in range(n):
+            x = 0
+            for j in num[i]:
+                x += int(j)
+            num2.append(x)
+        # print(num2)
+        for i in range(n - 1):
+            for j in range(n - i - 1):
+                if num2[j] > num2[j + 1]:
+                    temp = num[j]
+                    num[j] = num[j + 1]
+                    num[j + 1] = temp
+
+                    temp2 = num2[j]
+                    num2[j] = num2[j + 1]
+                    num2[j + 1] = temp2
+                if num2[j] == num2[j + 1]:
+                    if int(num[j]) > int(num[j + 1]):
+                        temp = num[j]
+                        num[j] = num[j + 1]
+                        num[j + 1] = temp
+
+        print(*num, sep=" ")
+    except EOFError:
+        break
