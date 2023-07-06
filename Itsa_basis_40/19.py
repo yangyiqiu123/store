@@ -3,7 +3,7 @@
 # time2 = []
 # for i in range(1, len(time), 2):
 #     time2.append([time[i-1], time[i]-time[i-1]])
-# time2 = sorted(time2, key=lambda x: x[1])  
+# time2 = sorted(time2, key=lambda x: x[1])
 # # print(time2)
 # ans = 0
 # while len(time2) != 0:
@@ -28,8 +28,8 @@
 
 # events = []
 # for i in range(0, len(times), 2):
-#     events.append((times[i], 1)) 
-#     events.append((times[i + 1], -1)) 
+#     events.append((times[i], 1))
+#     events.append((times[i + 1], -1))
 # events.sort()
 
 # current_tasks = 0
@@ -43,20 +43,19 @@
 
 while True:
     try:
-        order=int(input())
-        time=list(map(int,input().split()))
-        cars=order
-        
-        for i in range(0,len(time),2):
-            for j in range(1,len(time),2): 
-                if time[i]-time[j]>=0 :
-                    
-                    time[j]=time[i+1]
-                    
-                    cars-=1
-                    
+        order = int(input())
+        time = list(map(int, input().split()))
+        cars = order
+
+        for i in range(0, len(time), 2):
+            for j in range(1, len(time), 2):
+                if time[i] - time[j] >= 0:
+                    time[j] = time[i + 1]
+
+                    cars -= 1
+
                     break
-                    
+
         if cars == 0:
             print(1)
         else:
